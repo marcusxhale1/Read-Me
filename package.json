@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "name": "lesson",
+  "description": "<!DOCTYPE html>      <html lang=\"en\">      <head>       <meta charset=\"UTF-8\">       <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">       <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">       <title>Portfolio Demo</title>     </head>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
